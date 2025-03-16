@@ -4,7 +4,7 @@
 
 - 🔧 I specialize in developing end-to-end web applications using cutting-edge technologies, from front-end UI/UX design to back-end server architecture.
 
-- 🛠️ Proficient in JavaScript/TypeScript, HTML, CSS, and popular frameworks/libraries like React, Next.js, and Vue.js on the front end, and Node.js, Express.js, and Django on the back end.
+- 🛠️ Proficient in JavaScript/TypeScript, HTML, CSS, and popular frameworks/libraries like React, Next.js, and Angular.js on the front end, and Node.js, Express.js, and .Net on the back end.
 
 - 🔍 Always eager to learn and explore new technologies to enhance my skills and stay updated with industry trends.
 
