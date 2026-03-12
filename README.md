@@ -17,6 +17,6 @@ Bridging the gap between business vision and technical excellence. I specialize 
 ---
 
 📫 **Let's Connect!**
-[LinkedIn](www.linkedin.com/in/sirapop-bunlerssakskul) | [Website: Coinchain](https://coinchain-landing-page.vercel.app)
+[LinkedIn](www.linkedin.com/in/sirapop-bunlerssakskul) | [Website: Coinchain](https://coinchain-solution.vercel.app)
 
 *"Crafting digital masterpieces with passion and precision."* 🚀
