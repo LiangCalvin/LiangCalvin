@@ -1,21 +1,22 @@
-- 👋 Hello, I'm @LiangCalvin
+# 👋 Hello, I'm LiangCalvin
 
-- 💻 Full-Stack Developer | 🌐 Web Enthusiast | 🚀 Passionate about building innovative solutions
+**Technical Business Analyst | Full-Stack Developer | Founder of Coinchain**
 
-- 🔧 I specialize in developing end-to-end web applications using cutting-edge technologies, from front-end UI/UX design to back-end server architecture.
+Bridging the gap between business vision and technical excellence. I specialize in crafting high-performance digital solutions that drive business value.
 
-- 🛠️ Proficient in JavaScript/TypeScript, HTML, CSS, and popular frameworks/libraries like React, Next.js, and Angular.js on the front end, and Node.js, Express.js, and .Net on the back end.
+### 🚀 What I Do
+- **System Analysis:** Translating complex business requirements into scalable technical architectures.
+- **Modern Web Development:** Building lightning-fast applications using **Next.js 15**, React, and TypeScript.
+- **Full-Stack Expertise:** Proficient in Node.js, .NET, and cloud deployments via Vercel.
 
-- 🔍 Always eager to learn and explore new technologies to enhance my skills and stay updated with industry trends.
+### 🛠️ Tech Stack
+- **Frontend:** Next.js (Core), React, Tailwind CSS, TypeScript
+- **Backend:** Node.js, Express, .NET, RESTful APIs
+- **Focusing on:** Web3, DeFi, and Blockchain ecosystems
 
-- 🌱 Currently diving deeper into blockchain technology, smart contract, web3 and DeFi.
+---
 
-- 📫 Let's connect! Feel free to reach out to me via email or connect with me on LinkedIn.
+📫 **Let's Connect!**
+[LinkedIn](www.linkedin.com/in/sirapop-bunlerssakskul) | [Website: Coinchain](https://coinchain-landing-page.vercel.app)
 
-- Happy coding! 🚀
-
-<!---
-LiangCalvin/LiangCalvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+*"Crafting digital masterpieces with passion and precision."* 🚀
